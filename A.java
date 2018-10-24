@@ -40,7 +40,7 @@ public class A {
     public void setA_princ4(String a_princ4) {
         this.a_princ4 = a_princ4;
     }
-    
+
     public float soma(){
         return a1+a2;
     }
