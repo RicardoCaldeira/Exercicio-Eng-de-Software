@@ -13,4 +13,5 @@ public class B {
     public void setB4(String b4) {
         this.b4 = b4;
     }
+    // teste
 }
