@@ -31,4 +31,8 @@ public class A {
     public void setA3(String a3) {
         this.a3 = a3;
     }
+    
+    public float soma(){
+        return a1+a2;
+    }
 }
